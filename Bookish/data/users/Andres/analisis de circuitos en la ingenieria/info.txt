@@ -2,4 +2,4 @@
 W. Hayt; J. Kemmerly; S. Durbin
 2003
 INGENIERIA
-Descripcion
+Libro introductorio al análisis y diseño de circuitos eléctricos, muy usado en carreras como ingeniería en electrónica.

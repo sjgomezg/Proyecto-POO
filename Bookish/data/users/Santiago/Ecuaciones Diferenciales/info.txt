@@ -2,3 +2,4 @@
 D. Zill
 2008
 MATEMATICAS
+Las palabras ecuaciones y diferenciales nos hacen pensar en la solución de cierto tipo de ecuación que contenga derivadas.

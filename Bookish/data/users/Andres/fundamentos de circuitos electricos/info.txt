@@ -2,3 +2,4 @@
 C. Alexander; M. Sadiku
 1998
 INGENIERIA
+Presenta el análisis de circuitos de una manera que sea más clara, más interesante, y más fácil de comprender que en otros textos, y para ayudar al estudiante a que comience a ver la “diversión” de la ingeniería.

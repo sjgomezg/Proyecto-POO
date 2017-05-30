@@ -2,3 +2,4 @@
 autorJ. Angulo; S. Romero; I. Angulo
 1998
 INGENIERIA
+Este libro busca facilitar  el camino al lector para que se entusiasme y utilice los microcontroladores, para ello hemos salpicado la obra con numerosos y prácticos proyectos que manejan periféricos y son sencillos de simular.

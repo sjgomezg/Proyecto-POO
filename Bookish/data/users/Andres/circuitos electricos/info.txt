@@ -2,3 +2,4 @@
 R. Dorf; J. Svoboda
 2007
 INGENIERIA
+Proporciona una cobertura completa y directa de los fundamentos de componentes y circuitos eléctricos. Explica y aplica las leyes fundamentales y los métodos de análisis de circuitos en diversos circuitos básicos.
