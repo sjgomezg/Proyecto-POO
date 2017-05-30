@@ -153,6 +153,7 @@ void controlEvent(ControlEvent theEvent) {
   
   if (theEvent.isTab()) {
     println("got an event from tab : "+theEvent.getTab().getName()+" with id "+theEvent.getTab().getId());
+    accordion.open(0);
     v2=false;
   }
   if (theEvent.isGroup()){

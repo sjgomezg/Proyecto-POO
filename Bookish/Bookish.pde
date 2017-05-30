@@ -103,7 +103,7 @@ void buscar(String sr){
       }
       general = temp;
     }
-    accordion.open(1);
+    accordion.open(0);
     println(index);
     v = true;
    }

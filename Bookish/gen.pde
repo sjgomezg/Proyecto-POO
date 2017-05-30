@@ -165,7 +165,7 @@ void gen(){
     .setWidth(width)
     
     .addItem(g1)
-    .open(1)
+    .open(0)
     ;
   
 //elementos pestaña login
