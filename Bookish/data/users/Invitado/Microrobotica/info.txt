@@ -1,0 +1,5 @@
+﻿Microrobotica
+J. Angulo; S. Romero; I. Angulo
+2001
+INGENIERIA
+La presente obra cubre los tres aspectos fundamentales de la Microbótica: la tecnología, las aplicaciones y el diseño, el montaje paso a paso, la puesta en marcha y el desarrollo de programas de aplicación de un microbot.

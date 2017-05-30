@@ -1,0 +1,5 @@
+﻿Programming with Java a primer
+E. Balagurusamy
+2009
+INGENIERIA
+Authored by the most trusted name in the area, this text acts like a primer, moving step by step starting from fundamentals to core concepts in much desired logical flow and hence, renders conceptual clarity along with simplicity.
